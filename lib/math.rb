@@ -22,5 +22,6 @@ def square_root(a)
   return Math.sqrt(a)
 end
 
-def order_of_operations
+def order_of_operations(a,b,c,d)
+  
 end
